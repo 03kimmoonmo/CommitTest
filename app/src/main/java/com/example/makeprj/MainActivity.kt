@@ -17,4 +17,4 @@ class MainActivity : AppCompatActivity() {
     fun WriteLn(any:Any){
         txtMessage.text = "${txtMessage.text}${any.toString()}\n"
     }
-}
+}//testtesttesttesttestteststesttesttesttest
